@@ -1,0 +1,992 @@
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+[0] Try again!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+==> Finish analysing, it spends 0:01:09.710630
+
+Original key informations:
+==============================================
+secret key = d888fca3c9a5357d
+keys = ['76e1779c8c4d', 'dedf3571142c', 'cfb34bc838aa', '2bd6ef247a3d', 'f959ca3318f2', '30ebf9858933', '957d17072e54']
+[37, 23, 52, 23, 1, 50, 57, 20]
+==============================================
+
+The predicted key is d888fca3c9a5357d, testing 1000 random plaintext...
+
+All test pass. Attack successfully!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+==> Finish analysing, it spends 0:01:05.201452
+
+Original key informations:
+==============================================
+secret key = 5593dd6faa30fadd
+keys = ['5fc6c6ad5cc7', 'f50f796b3b70', 'c7faa1f1e93a', '9bbfd6651e1e', '7c76cbdd30fe', '73d56c25daed', 'c8c9d712bcf7']
+[50, 12, 39, 23, 4, 43, 51, 55]
+==============================================
+
+The predicted key is 5593dd6faa30fadd, testing 1000 random plaintext...
+
+All test pass. Attack successfully!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+[0] Try again!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+==> Finish analysing, it spends 0:01:02.328996
+
+Original key informations:
+==============================================
+secret key = 0f06c309a04417e1
+keys = ['07146210b092', '10831998219d', '051033235281', 'a708c4522123', '1a6280a6090c', '1815384033d2', 'c4004d758029']
+[49, 0, 1, 13, 29, 24, 0, 41]
+==============================================
+
+The predicted key is 0f06c309a04417e1, testing 1000 random plaintext...
+
+All test pass. Attack successfully!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+==> Finish analysing, it spends 0:01:00.458979
+
+Original key informations:
+==============================================
+secret key = e72121b284504835
+keys = ['12b9b4404205', '82ec45208890', '496f16012417', '64b5a92f0080', 'd38463004147', 'e9ca92068084', '34b38ec005c1']
+[13, 11, 14, 14, 48, 0, 23, 1]
+==============================================
+
+The predicted key is e72121b284504835, testing 1000 random plaintext...
+
+All test pass. Attack successfully!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+==> Finish analysing, it spends 0:01:00.810108
+
+Original key informations:
+==============================================
+secret key = 4435115ac0ccc3a9
+keys = ['2b9221401873', 'a9b049f8c150', '0146da81c60a', '745990dc3600', '16a941b8426c', '0b641710fa82', '6d058cb42431']
+[27, 16, 22, 12, 45, 2, 16, 49]
+==============================================
+
+The predicted key is 4435115ac0ccc3a9, testing 1000 random plaintext...
+
+All test pass. Attack successfully!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+[0] Try again!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+==> Finish analysing, it spends 0:01:01.091272
+
+Original key informations:
+==============================================
+secret key = ee4d0624bd1177d1
+keys = ['d38cdc99a21a', '904cfb8107bd', 'f56b241b1a85', '82bf855241b5', '59367703298d', 'e5d4e8e23191', 'd2c3e663032f']
+[52, 44, 15, 38, 24, 48, 12, 47]
+==============================================
+
+The predicted key is ee4d0624bd1177d1, testing 1000 random plaintext...
+
+All test pass. Attack successfully!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+==> Finish analysing, it spends 0:01:02.550956
+
+Original key informations:
+==============================================
+secret key = 6c888de2e70f09ee
+keys = ['27cf64a2cf2d', 'a69519375c1a', '4f02678d3176', 'abd898a5eae4', '1c23ea708ed7', 'b25c199f849f', '4d2b440f77c1']
+[19, 18, 45, 4, 3, 55, 31, 1]
+==============================================
+
+The predicted key is 6c888de2e70f09ee, testing 1000 random plaintext...
+
+All test pass. Attack successfully!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+==> Finish analysing, it spends 0:01:00.823871
+
+Original key informations:
+==============================================
+secret key = ff1e99ac9f740048
+keys = ['0699dc2d9ed8', 'c24591da36f8', '5d8b15f9db2d', '07b08b127eba', '3b04e6fd3935', 'f84888a36afa', '10a33c75bb17']
+[4, 10, 12, 60, 29, 27, 44, 23]
+==============================================
+
+The predicted key is ff1e99ac9f740048, testing 1000 random plaintext...
+
+All test pass. Attack successfully!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+==> Finish analysing, it spends 0:01:08.502322
+
+Original key informations:
+==============================================
+secret key = e89ff55a3ce44ddd
+keys = ['15fe5bd8dadd', 'ec4bdcf9ac6c', '16f33da8fe9e', '8f1d733d76b7', 'ef6aedbf48e3', '9bf78886eb57', '581ffbb7a7d4']
+[22, 1, 63, 59, 45, 58, 31, 20]
+==============================================
+
+The predicted key is e89ff55a3ce44ddd, testing 1000 random plaintext...
+
+All test pass. Attack successfully!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+==> Finish analysing, it spends 0:01:19.375611
+
+Original key informations:
+==============================================
+secret key = 71a5d8a5f04de4c6
+keys = ['6fdd4e150574', '8737f9d45204', 'df56f55022e8', 'dfdbc8b0b809', '1af3ef223632', 'b95d4f3d2922', '616bed244852']
+[24, 22, 47, 45, 9, 4, 33, 18]
+==============================================
+
+The predicted key is 71a5d8a5f04de4c6, testing 1000 random plaintext...
+
+All test pass. Attack successfully!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+==> Finish analysing, it spends 0:01:08.500098
+
+Original key informations:
+==============================================
+secret key = e2657d0c7b41ddc0
+keys = ['a9bc5ab95450', '9172decb1aa4', '3457f4104bb9', 'd65965131815', '8be375c321b0', '8d57af212b0d', 'f313e9721096']
+[60, 49, 15, 41, 28, 33, 2, 22]
+==============================================
+
+The predicted key is e2657d0c7b41ddc0, testing 1000 random plaintext...
+
+All test pass. Attack successfully!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+==> Finish analysing, it spends 0:01:02.984457
+
+Original key informations:
+==============================================
+secret key = af6f483505ca66cc
+keys = ['c11857538ebe', '08667a80f79e', 'e4551cbd36a5', '468b41fa4ae3', '0bf83316eb1f', 'ad25cab735d0', '724689e9a363']
+[28, 36, 26, 9, 58, 26, 13, 35]
+==============================================
+
+The predicted key is af6f483505ca66cc, testing 1000 random plaintext...
+
+All test pass. Attack successfully!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+==> Finish analysing, it spends 0:00:57.676929
+
+Original key informations:
+==============================================
+secret key = 65a6c9eb3356ccfc
+keys = ['1ddfee325c95', 'a7afd8ba3816', '5e7eb7a563b2', 'ffbd58352a43', '4ee6eff68056', 'fbdd1e05a7ce', '6cabeb3cb4c1']
+[27, 10, 47, 43, 15, 11, 19, 1]
+==============================================
+
+The predicted key is 65a6c9eb3356ccfc, testing 1000 random plaintext...
+
+All test pass. Attack successfully!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+==> Finish analysing, it spends 0:00:58.670706
+
+Original key informations:
+==============================================
+secret key = 4db19511f02e93fa
+keys = ['3fc468c28962', 'd5b99955c15a', '17a6e3859448', 'fb5c86c8b664', '78a3cc38ceac', '10d43f185c93', 'e509768f6031']
+[57, 16, 37, 54, 35, 54, 0, 49]
+==============================================
+
+The predicted key is 4db19511f02e93fa, testing 1000 random plaintext...
+
+All test pass. Attack successfully!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+==> Finish analysing, it spends 0:01:11.568084
+
+Original key informations:
+==============================================
+secret key = 9aebcc66030a65f0
+keys = ['d54276b784a9', '24ef7a23768e', 'e675037c11a3', '6b8f5186486f', '4df09b46bbd0', '3785dab18579', '7e48834b9e02']
+[31, 36, 34, 3, 18, 57, 56, 2]
+==============================================
+
+The predicted key is 9aebcc66030a65f0, testing 1000 random plaintext...
+
+All test pass. Attack successfully!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+==> Finish analysing, it spends 0:01:07.906324
+
+Original key informations:
+==============================================
+secret key = 1e3fa063a94db71b
+keys = ['5e36041c89bb', '312d25b465fc', 'c124b1e99ac3', 'd586b4d6e63b', 'd692823f1f4c', '3a926698f1f2', 'a8504e65ee25']
+[42, 5, 1, 14, 25, 30, 56, 37]
+==============================================
+
+The predicted key is 1e3fa063a94db71b, testing 1000 random plaintext...
+
+All test pass. Attack successfully!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+==> Finish analysing, it spends 0:01:09.202370
+
+Original key informations:
+==============================================
+secret key = 00e2c05ad160eb41
+keys = ['ee524a405083', '6533f328a900', 'b7d4d1204412', '5f43d24d0002', '3ed19d844048', '1f014f009244', '2b48bd9084a0']
+[10, 52, 34, 61, 36, 8, 18, 32]
+==============================================
+
+The predicted key is 00e2c05ad160eb41, testing 1000 random plaintext...
+
+All test pass. Attack successfully!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+[0] Try again!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+==> Finish analysing, it spends 0:00:59.420719
+
+Original key informations:
+==============================================
+secret key = f953ffb8b778f6e8
+keys = ['cfbdfef4bee2', 'd3c7ff4bf14d', 'fddbb7e2d5ac', 'b7bbefc81faf', 'bb76f7de5ab9', 'fd5ffc535b79', 'd6f3fd93b938']
+[53, 47, 15, 61, 36, 59, 36, 56]
+==============================================
+
+The predicted key is f953ffb8b778f6e8, testing 1000 random plaintext...
+
+All test pass. Attack successfully!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+==> Finish analysing, it spends 0:00:59.829869
+
+Original key informations:
+==============================================
+secret key = 3699a0bd5a5fb127
+keys = ['6c79ac6f112c', '1795a41ec6f2', 'da08d75ded41', '3de22caae458', '8215aee9f706', 'f80a75bc46aa', '85fa28dc5a47']
+[33, 31, 40, 40, 55, 5, 41, 7]
+==============================================
+
+The predicted key is 3699a0bd5a5fb127, testing 1000 random plaintext...
+
+All test pass. Attack successfully!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+==> Finish analysing, it spends 0:00:57.003115
+
+Original key informations:
+==============================================
+secret key = 4eaa605090eef55f
+keys = ['5af24b5289ac', 'fd2af514e49e', '97f698ad34c1', '5e17f6aae263', 'fed84d36cf06', '0be36e9c05d2', 'a85dbfcde241']
+[42, 5, 54, 63, 51, 30, 9, 1]
+==============================================
+
+The predicted key is 4eaa605090eef55f, testing 1000 random plaintext...
+
+All test pass. Attack successfully!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+==> Finish analysing, it spends 0:00:58.435417
+
+Original key informations:
+==============================================
+secret key = 0005acd22b4205e7
+keys = ['053760fa0515', '22811ca79026', '0c0033042fe2', 'a708383c8855', '8e228043c4d2', '1a1e180da509', '4c3048aa5444']
+[19, 3, 1, 8, 42, 37, 17, 4]
+==============================================
+
+The predicted key is 0005acd22b4205e7, testing 1000 random plaintext...
+
+All test pass. Attack successfully!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+==> Finish analysing, it spends 0:00:59.596387
+
+Original key informations:
+==============================================
+secret key = 4b9ad42141bdd835
+keys = ['3cc0a780c0ec', 'dd9f40516cc8', '42facb28b019', '39f546a37426', '604dcb2c0ba2', '71e135944857', '858d934782d0']
+[33, 24, 54, 19, 17, 56, 11, 16]
+==============================================
+
+The predicted key is 4b9ad42141bdd835, testing 1000 random plaintext...
+
+All test pass. Attack successfully!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+==> Finish analysing, it spends 0:00:58.225744
+
+Original key informations:
+==============================================
+secret key = bd815a14600ab859
+keys = ['784c5247ec60', '155a3040da1b', '8631e4d71438', '9a4645891b68', '49532810fa34', '8091ed710cb4', '914a4389289b']
+[36, 20, 41, 3, 34, 18, 34, 27]
+==============================================
+
+The predicted key is bd815a14600ab859, testing 1000 random plaintext...
+
+All test pass. Attack successfully!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+==> Finish analysing, it spends 0:00:59.120927
+
+Original key informations:
+==============================================
+secret key = afca2bbba3f606d8
+keys = ['937dd572bc8b', '4e4c1f3ab59f', '6fa93caf55a3', '8eacab4e6b63', 'fb2e3af6c95c', 'ecbe88c197da', '52be5eddb629']
+[20, 43, 57, 30, 55, 27, 24, 41]
+==============================================
+
+The predicted key is afca2bbba3f606d8, testing 1000 random plaintext...
+
+All test pass. Attack successfully!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+==> Finish analysing, it spends 0:00:59.477621
+
+Original key informations:
+==============================================
+secret key = 841477e1ee05f5de
+keys = ['7b2756b82b54', '335e7dd70075', 'cd71e083abcc', '92cffd30b795', 'dd73037b04a7', '239fed4e698b', 'd970c726715d']
+[54, 23, 3, 7, 9, 39, 5, 29]
+==============================================
+
+The predicted key is 841477e1ee05f5de, testing 1000 random plaintext...
+
+All test pass. Attack successfully!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+[0] Try again!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+==> Finish analysing, it spends 0:00:59.686320
+
+Original key informations:
+==============================================
+secret key = 7730c327aaffc921
+keys = ['0e9ca72f6021', 'c9a741324af3', '41debf578913', 'f5b1c2872558', '32cee369b344', 'f9711670c4ae', '2487dd4c1c8f']
+[9, 8, 31, 29, 19, 1, 50, 15]
+==============================================
+
+The predicted key is 7730c327aaffc921, testing 1000 random plaintext...
+
+All test pass. Attack successfully!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+==> Finish analysing, it spends 0:00:58.716602
+
+Original key informations:
+==============================================
+secret key = 6f06c6ebb7ee1bdd
+keys = ['179f4fa2fab7', 'fa0f99bb699b', '5db23da77317', '879cdef723e6', '7e6ae6f48bcf', 'bafd2856b6df', 'c8277f7fb5e9']
+[50, 2, 29, 63, 31, 59, 23, 41]
+==============================================
+
+The predicted key is 6f06c6ebb7ee1bdd, testing 1000 random plaintext...
+
+All test pass. Attack successfully!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!

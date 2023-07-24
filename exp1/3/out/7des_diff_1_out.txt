@@ -1,0 +1,707 @@
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+[0] Try again!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+[0] Try again!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+[0] Try again!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+[0] Try again!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+[0] Try again!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+[0] Try again!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+[0] Try again!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+==> Finish analysing, it spends 0:00:37.564682
+
+Original key informations:
+==============================================
+secret key = f52d9c7d038133ed
+keys = ['458a75e51c5e', 'b8e538cb9710', 'c4070fd96728', '639a15785a0c', '0db8e2d070be', 'b264faa53aa9', 'fc4700b23a73']
+[63, 4, 28, 0, 44, 35, 41, 51]
+==============================================
+
+The predicted key is f52d9c7d038133ed, testing 1000 random plaintext...
+
+All test pass. Attack successfully!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+==> Finish analysing, it spends 0:00:34.614279
+
+Original key informations:
+==============================================
+secret key = d1e2dee1a3410f24
+keys = ['86d736b464c6', 'a6e703433905', '6b17336221b8', 'ed90d961190f', '17c2da4610ba', '3e599245196d', '3e294d0298f8']
+[15, 34, 37, 13, 0, 41, 35, 56]
+==============================================
+
+The predicted key is d1e2dee1a3410f24, testing 1000 random plaintext...
+
+All test pass. Attack successfully!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+[0] Try again!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+[0] Try again!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+[0] Try again!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+[0] Try again!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+[0] Try again!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+[0] Try again!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+[0] Try again!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+==> Find the 48bit keys, start a search for the initial key...
+Analyze fail!
+
+Differential Cryptandysis of 7-round DES
+
+==> Built a Des!
+==> Start analysing key...
+[0] Try again!
